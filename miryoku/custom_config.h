@@ -1,8 +1,6 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
-#pragma once
-
 #define MIRYOKU_LAYER_BASE \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
 &kp A,             U_MT(LCTRL, S),    U_MT(LALT, D),     U_MT(LGUI, F),     &kp G,             &kp H,             U_MT(RGUI, J),     U_MT(RALT, K),     U_MT(RCTRL, L),    &kp SQT,   \
